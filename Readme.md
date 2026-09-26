@@ -15,6 +15,7 @@
 *Direct Peer-to-Peer • Zero Ads • Unlimited Session Time • No Subscriptions • No "Commercial Use" Locks*
 
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Muhammad9985/SMBBIT-Desk/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Free Forever](https://img.shields.io/badge/Price-100%25%20Free%20Forever-2ea44f?style=for-the-badge)](https://github.com/Muhammad9985/SMBBIT-Desk)
 [![Zero Ads](https://img.shields.io/badge/Ads-Zero%20%2F%20None-success?style=for-the-badge)](https://github.com/Muhammad9985/SMBBIT-Desk)
 [![Unlimited Sessions](https://img.shields.io/badge/Session%20Duration-Unlimited%20%E2%88%9E-orange?style=for-the-badge)](https://github.com/Muhammad9985/SMBBIT-Desk)
@@ -224,7 +225,14 @@ SMBBIT-Desk features custom non-blocking Win32 title bar interception. Instead o
 
 - **Repository**: [https://github.com/Muhammad9985/SMBBIT-Desk](https://github.com/Muhammad9985/SMBBIT-Desk)
 - **Issues & Bug Reports**: [Open an Issue](https://github.com/Muhammad9985/SMBBIT-Desk/issues)
-- **Feature Requests**: Have an idea? Submit a feature suggestion in Discussions!
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — you are free to use, distribute, modify, and integrate it into your projects without restriction.
+
+See the [LICENSE](LICENSE) file for complete license terms.
 
 ---
 
